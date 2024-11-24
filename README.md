@@ -1,7 +1,10 @@
 # bulksms
+
 A python app to send sms using the google messages web interface
-## Project structure:
-```
+
+## Project structure
+
+```txt
 bulksms/
 │
 ├── main.py                # Entry point: starts the GUI
@@ -19,5 +22,5 @@ bulksms/
 │   └── sample_data.csv    # Sample CSV file for phone numbers
 │
 └── dist/                  # Output folder for packaged executables
-   
+  
 ```
