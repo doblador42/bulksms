@@ -1,6 +1,6 @@
 # bulksms
 
-A python app to send sms using the google messages web interface
+A python app using **selenium** to send **sms** messages, **using** the google messages web interface. This is a WIP.
 
 ## Project structure
 
